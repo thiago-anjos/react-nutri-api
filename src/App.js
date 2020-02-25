@@ -12,7 +12,7 @@ class App extends Component{
 
   componentDidMount(){
     let state = this.state;
-    let url = "http://www.sujeitoprogramador.com/rn-api/?api=posts";
+    let url = "https://www.sujeitoprogramador.com/rn-api/?api=posts";
     fetch(url)
       .then(
         (response) =>{

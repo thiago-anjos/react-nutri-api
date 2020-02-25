@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffb776a2e0db98c930929d1cbc53d683",
+    "revision": "4dcd8da203d3d2b5fb63f50beca890cd",
     "url": "/react-nutri-api/index.html"
   },
   {
-    "revision": "943b9820b3156b543006",
+    "revision": "8cca623d9b03aba86d99",
     "url": "/react-nutri-api/static/css/main.97524ec8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-nutri-api/static/js/2.7ee94cb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "943b9820b3156b543006",
-    "url": "/react-nutri-api/static/js/main.5563c844.chunk.js"
+    "revision": "8cca623d9b03aba86d99",
+    "url": "/react-nutri-api/static/js/main.ca49daa8.chunk.js"
   },
   {
     "revision": "0ff7012ad92184d28a01",
